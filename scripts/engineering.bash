@@ -8,7 +8,7 @@
 # on Heroku. 
 #
 # git remote rm origin
-# git remote add origin https://github.com/munair/engineering-soyoonkorean-com.git
+# git remote add origin https://github.com/munair/engineering-yuppiecapoeira-com.git
 
 git init
 if [ $1 == "ALL" ] ; then
@@ -18,8 +18,8 @@ else
 fi
 git commit -m "$2"
 cat ~/.netrc | grep heroku || heroku login && heroku keys:add ~/.ssh/id_rsa.pub
-heroku apps:destroy engineering-soyoonkorean-com --confirm engineering-soyoonkorean-com
-heroku apps:create engineering-soyoonkorean-com
-heroku domains:add engineering.soyoonkorean.com --app engineering-soyoonkorean-com
-heroku git:remote -a engineering-soyoonkorean-com
+heroku apps:destroy engineering-yuppiecapoeira-com --confirm engineering-yuppiecapoeira-com
+heroku apps:create engineering-yuppiecapoeira-com
+heroku domains:add engineering.yuppiecapoeira.com --app engineering-yuppiecapoeira-com
+heroku git:remote -a engineering-yuppiecapoeira-com
 git push heroku master

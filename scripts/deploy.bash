@@ -11,7 +11,7 @@
 # 
 # git operations
 git remote remove origin
-git remote add origin https://github.com/munair/www-soyoonkorean-com.git
+git remote add origin https://github.com/yuppiecapoeira/www-yuppiecapoeira-com.git
 git checkout master || git checkout -b master
 git merge staging
 git push origin master
@@ -19,10 +19,10 @@ git push origin master
 #
 # heroku operations
 cat ~/.netrc | grep heroku || heroku login && heroku keys:add ~/.ssh/id_rsa.pub
-heroku apps:destroy www-soyoonkorean-com --confirm www-soyoonkorean-com
-heroku apps:create www-soyoonkorean-com
-heroku domains:add www.soyoonkorean.com --app www-soyoonkorean-com
-heroku domains:add soyoonkorean.com --app www-soyoonkorean-com
-heroku git:remote -a www-soyoonkorean-com -r production-heroku
+heroku apps:destroy www-yuppiecapoeira-com --confirm www-yuppiecapoeira-com
+heroku apps:create www-yuppiecapoeira-com
+heroku domains:add www.yuppiecapoeira.com --app www-yuppiecapoeira-com
+heroku domains:add yuppiecapoeira.com --app www-yuppiecapoeira-com
+heroku git:remote -a www-yuppiecapoeira-com -r production-heroku
 git push production-heroku master:master
 git checkout development
