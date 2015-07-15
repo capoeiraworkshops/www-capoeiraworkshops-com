@@ -4,17 +4,17 @@
 
 ## Capoeira Workshops
 
-Capoeira Workshops are designed for businesses that need highly functioning and interactive teams. The workshops substitute regular interaction with the movements of Capoeira. Participants interact with each other using Capoeira to accomplish graceful and effective cooperative exercises. Capoeira Workshops help improve:
+Capoeira Workshops are designed for businesses that need highly functioning and interactive teams. The workshops substitute regular interaction with the movements of Capoeira. Participants interact with each other using Capoeira to accomplish graceful and cooperative exercises. Capoeira Workshops help improve:
 * Teamwork
 * Emotional Intelligence
 * Strategic Thinking
 * Compassion
 
-The practice of Capoeira is also a great total body exercise that, if coupled with our optional meditation practice, is also a great stress reliever. Capoeira Workshops will require your team to invest a minimum of two full days. Visit our website to learn more.
+The practice of Capoeira is also a great total body exercise that, if coupled with our optional meditation practice, is also a great stress reliever. Not including travel time, Capoeira Workshops will require your team to invest a minimum of two full days. Visit our website to learn more.
 
 ## Packages & Pricing
 
-Contact us to create a custom package or choose from one of the following basic packages:
+Contact us to create a custom package or choose from one of the following basic packages (facilities and other expenses not included):
 * 2 Day Workshop - 5,000 USD
 * 5 Day Workshop - 10,000 USD
 * 10 Day Workshop - 15,000 USD (**best value**)
