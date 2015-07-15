@@ -22,7 +22,9 @@ Not sure how long of a workshop you need? Contact [us](https://www.capoeiraworks
 
 ## Management & Teaching
 
-Capoeira Workshops are the brainchild of **Munair Simpson**, the proprietor and principal teacher at [Capoeira Studio](http://www.capoeirastudio.com/) in Seoul, South Korea. Munair Simpson is a graduate of the prestiguous Wharton MBA program at the University of Pennsylvania. He has been practicing Capoeira for over 15 years. For the last 10 years has been teaching Capoeira all over the world. He was official given the title of "teacher" by the Capoeira grandmaster, [Mestre Acordeon](https://en.wikipedia.org/wiki/Bira_Almeida). Capoeira practioners know him as **Professor Zumbi**.
+Capoeira Workshops are managed and led by **Munair Simpson**. **Munair Simpson** is the proprietor and principal teacher at the [Capoeira Studio](http://www.capoeirastudio.com/) in Seoul, South Korea. Munair Simpson, born in Jamaica and raised in the Cayman Islands, worked for both fleet-footed startups in the United States and large beaurocratic companies in Korea and elsewhere before founding the **Capoeira Studio**.
+
+Munair Simpson is a graduate of the prestiguous Wharton MBA program at the University of Pennsylvania. He has been practicing Capoeira for over 15 years. For the last 10 years has been teaching Capoeira all over the world. He was official given the title of "teacher" (or "professor" in Portuguese) by the Capoeira grandmaster, [Mestre Acordeon](https://en.wikipedia.org/wiki/Bira_Almeida). Capoeira practioners know him as **Professor Zumbi**.
 
 * https://facebook.com/zumbicdo
 * https://twitter.com/zumbicdo
