@@ -4,11 +4,10 @@
 
 ## Capoeira Workshops
 
-Capoeira Workshops are designed for businesses that need highly functioning and interactive teams. The workshops substitute regular interaction with the movements of Capoeira. Participants interact with each other using Capoeira to accomplish graceful and cooperative exercises. Capoeira Workshops help improve:
+Capoeira Workshops are designed for businesses that need highly functioning and interactive teams that need to escape the office environment for a while to stimulate creative thinking. The workshops substitute regular interaction with the movements of Capoeira. Participants interact with each other using Capoeira to accomplish graceful and cooperative exercises. Capoeira Workshops help improve:
 * Teamwork
 * Emotional Intelligence
-* Strategic Thinking
-* Compassion
+* Vision & Strategic Thinking
 
 The practice of Capoeira is also a great total body exercise that, if coupled with our optional meditation practice, is also a great stress reliever. Not including travel time, Capoeira Workshops will require your team to invest a minimum of two full days. Visit our website to learn more.
 
