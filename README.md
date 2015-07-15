@@ -29,6 +29,8 @@ Munair Simpson is a graduate of the prestiguous Wharton MBA program at the Unive
 * https://facebook.com/zumbicdo
 * https://twitter.com/zumbicdo
 
+## Website & Development
+
 The Capoeira Workshop website is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat). The website uses a template provided by StartBootstrap.
 
 ## Copyright and License
