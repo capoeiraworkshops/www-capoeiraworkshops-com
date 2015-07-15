@@ -12,11 +12,12 @@ Capoeira Workshops are designed for businesses that need highly functioning and 
 
 The practice of Capoeira is also a great total body exercise that, if coupled with our optional meditation practice, is also a great stress reliever. Capoeira Workshops will require your team to invest a minimum of two full days. Visit our website to learn more.
 
-## Products & Pricing
+## Packages & Pricing
 
-2 Day Workshop - 5,000 USD
-5 Day Workshop - 10,000 USD
-10 Day Workshop - 15,000 USD (**best value**)
+Contact us to create a custom package or choose from one of the following basic packages:
+* 2 Day Workshop - 5,000 USD
+* 5 Day Workshop - 10,000 USD
+* 10 Day Workshop - 15,000 USD (**best value**)
 
 Not sure how long of a workshop you need? Contact [us](https://www.capoeiraworkshops.com/#contact) or simply leave a comment here on our GitHub [overview page](http://github.com/capoeiraworkshops/www-capoeiraworkshops-com/).
 
