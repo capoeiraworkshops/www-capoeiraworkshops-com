@@ -18,7 +18,7 @@
 # heroku". Then the push is made.
 #
 git remote remove origin
-git remote add origin https://github.com/yuppiecapoeira/www-yuppiecapoeira-com.git
+git remote add origin https://github.com/capoeiraworkshops/www-capoeiraworkshops-com.git
 git checkout development || git checkout -b development
 if [ $1 == "ALL" ] ; then
 	git add --all .
@@ -39,9 +39,9 @@ git checkout staging || git checkout -b staging
 git merge development
 git push origin staging
 cat ~/.netrc | grep heroku || heroku login && heroku keys:add ~/.ssh/id_rsa.pub
-heroku apps:destroy staging-yuppiecapoeira-com --confirm staging-yuppiecapoeira-com
-heroku apps:create staging-yuppiecapoeira-com
-heroku domains:add staging.yuppiecapoeira.com --app staging-yuppiecapoeira-com
-heroku git:remote -a staging-yuppiecapoeira-com -r staging-heroku
+heroku apps:destroy staging-capoeiraworkshops-com --confirm staging-capoeiraworkshops-com
+heroku apps:create staging-capoeiraworkshops-com
+heroku domains:add staging.capoeiraworkshops.com --app staging-capoeiraworkshops-com
+heroku git:remote -a staging-capoeiraworkshops-com -r staging-heroku
 git push staging-heroku staging:master
 git checkout development
