@@ -1,4 +1,4 @@
-# [Professor Zumbi's](http://www.zumbicdo.com/) [Capoeira Workshops](http://www.capoeiraworkshops.com/)
+# [Capoeira Workshops](http://www.capoeiraworkshops.com/)
 
 [Professor Zumbi](http://www.zumbicdo.com/) is an internationally accredited Capoeira teacher based in Seoul, Korea. Zumbi leads [Capoeira Workshops](http://www.capoeiraworkshops.com/) at a location of your choosing or at select facilities in [Jamaica](http://www.capoeiraretreats.com/).
 
