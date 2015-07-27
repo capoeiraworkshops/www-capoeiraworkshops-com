@@ -185,11 +185,13 @@
 
         this.element.prepend(this.wrapper);
 
+	// webm from https://cloudconvert.com/mp4-to-webm
+	// ogg from https://cloudconvert.com/mp4-to-ogg
         if (!iOS && !android) {
             this.video = $("<video>" +
                 "<source src='" + this.path + ".mp4' type='video/mp4'>" +
                 "<source src='" + this.path + ".webm' type='video/webm'>" +
-                "<source src='" + this.path + ".ogv' type='video/ogg'>" +
+                "<source src='" + this.path + ".ogg' type='video/ogg'>" +
                 "</video>");
 
             // Disable visibility, while loading

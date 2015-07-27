@@ -24,7 +24,7 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	background-color: #d8dcb9;
+	background-color: #000000;
 }
 	
 body {
@@ -33,6 +33,7 @@ body {
 	color: #FFF;
 	text-shadow: 0 1px 2px rgba(0,0,0,.25);
 	-webkit-font-smoothing: antialiased;
+	background-color: transparent;
 }
 
 html, body {
@@ -45,10 +46,11 @@ html, body {
 /* Layout –––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 
 #outer-wrapper {
-	background: transparent url('../img/noise.png');
 	position: absolute;
 	width: 100%;
 	height: 100%;
+	background: transparent url('../img/iron-grip.png');
+	/* From www.transparenttextures.com */
 }
 
 main {
